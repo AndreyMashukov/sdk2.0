@@ -42,11 +42,6 @@
   "config": {
     "sort-packages": true
   },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "v0.0.1-dev"
-    }
-  },
   "autoload": {
     "psr-4": {
       "CdekSDK2\\": "src/"
